@@ -1,6 +1,10 @@
 # boober
-you can use it to do things i cant say here, OBV for what ur looking for
+![WQMh0N0 (1)](https://github.com/Botez4u/boober/assets/165505254/dd2ef3bd-ab0a-4721-b5c4-aec2e47cd703)
 
 
-this tool has been l34k3d on c hardR 4ck1ng dot org and is not c hardR acked
+this is a d12c0rd b00ber freshly published ( not cr4ck3ed)
 
+Essentials: 
+Proxy (socks4 / socks5 for better results)
+.Net v4 +
+and some Patient!
