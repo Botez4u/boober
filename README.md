@@ -6,5 +6,4 @@ this is a d12c0rd b00ber freshly published ( not cr4ck3ed)
 
 Essentials: 
 Proxy (socks4 / socks5 for better results)
-.Net v4 + Admin privileges cuz it might be buggy +
-and some Patient!
+.Net v4 + Admin privileges cuz it might be buggy
